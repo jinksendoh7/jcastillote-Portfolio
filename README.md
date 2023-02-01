@@ -2,5 +2,6 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-npm install
-npm run dev
+Intructions:
+1. npm install
+2. npm run dev
