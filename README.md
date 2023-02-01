@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://photos.google.com/search/_tra_/photo/AF1QipNHM_4lOIaiT63pYSD8vbphwp89TGRRu-mvyaUZ](https://postimg.cc/K3xfrvLr))
+![Portfolio Website](https://postimg.cc/K3xfrvLr)
 
 Instructions:
 1. npm install
