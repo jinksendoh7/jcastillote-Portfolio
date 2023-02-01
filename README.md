@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://photos.google.com/search/_tra_/photo/AF1QipNHM_4lOIaiT63pYSD8vbphwp89TGRRu-mvyaUZ)
 
 Instructions:
 1. npm install
