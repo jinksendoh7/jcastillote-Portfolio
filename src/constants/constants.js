@@ -58,7 +58,7 @@ export const projects = [
     image: "/images/7.png",
     tags: ["ASP.NET MVC", "AJAX", "C#", "MSSQL", "JS", "jQuery", "LINQ"],
     source: "https://github.com/jinksendoh7/Node.js_CustomerMaintenancePage",
-    visit: "https://node-js-customer-maintenance-page.vercel.app/",
+    visit: "https://github.com/jinksendoh7",
     id: 6,
   },
   {
@@ -69,7 +69,7 @@ export const projects = [
     image: "/images/8.png",
     tags: ["ASP.NET MVC", "AJAX", "C#", "MSSQL", "JS", "jQuery", "LINQ"],
     source: "https://github.com/jinksendoh7/Node.js_CustomerMaintenancePage",
-    visit: "https://node-js-customer-maintenance-page.vercel.app/",
+    visit: "https://github.com/jinksendoh7",
     id: 7,
   },
   {
