@@ -2,6 +2,6 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-Intructions:
+Instructions:
 1. npm install
 2. npm run dev
